@@ -1,3 +1,5 @@
+INTREVIEW QUESTION ANSWERS:
+
 1. What are the different types of missing data?
 
 There are three main types:
