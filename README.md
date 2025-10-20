@@ -76,10 +76,15 @@ Balancing helps models learn from all classes equally.
 
 8. Can preprocessing affect model accuracy?
 
-Yes ✅. Preprocessing directly affects model accuracy because:
+Yes Preprocessing directly affects model accuracy because:
 
 Clean, scaled, and encoded data improves learning efficiency.
 
 It reduces noise, handles missing data, and normalizes features.
 
-Proper preprocessing helps models detect meaningful patterns instead of no your README file (with emojis, tables, and bold headings)?
+
+
+
+
+
+
